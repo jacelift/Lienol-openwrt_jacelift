@@ -1,3 +1,15 @@
+created_at: 2022-01-17T07:30:14Z
+=
+```
+https://api.github.com/repos/jacelift/Lienol-openwrt_jacelift
+  "updated_at": "2022-01-17T07:49:53Z",
+  "pushed_at": "2022-01-17T07:45:06Z",
+  "git_url": "git://github.com/jacelift/Lienol-openwrt_jacelift.git",
+  "ssh_url": "git@github.com:jacelift/Lienol-openwrt_jacelift.git",
+  "clone_url": "https://github.com/jacelift/Lienol-openwrt_jacelift.git",
+  "svn_url": "https://github.com/jacelift/Lienol-openwrt_jacelift",
+```
+
 编译命令如下:
 -
 1. 首先装好 Ubuntu 64bit，推荐  Ubuntu  18 LTS x64
